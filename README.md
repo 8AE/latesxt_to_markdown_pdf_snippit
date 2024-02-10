@@ -1,4 +1,4 @@
-# latesxt_to_markdown_pdf_snippit
+# latex_to_markdown_pdf_snippit
 
 add this to the bottom of any `.md` file to have latext show on a markdown pdf
 
